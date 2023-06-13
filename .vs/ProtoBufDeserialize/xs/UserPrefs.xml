@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{931456E5-CA6A-482C-828E-0C47E4EBA828}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProtoBufDeserialize/Program.cs">
+    <Files>
+      <File FileName="ProtoBufDeserialize/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProtoBufDeserialize" expanded="True">
+            <Node name="ProtoBufDeserialize" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProtoBufDeserialize PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

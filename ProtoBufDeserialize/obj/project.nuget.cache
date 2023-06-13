@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XeQLBO1WL1B4EWi0SMCRbzBYbY1q+4EDScXGsjiNxxXzIqzhkZVAlPi9gugm/iwOE/d3UeKG4yQo8GCdfGmVTA==",
+  "success": true,
+  "projectFilePath": "/Users/mclee/Desktop/ProtoBufDeserialize/ProtoBufDeserialize/ProtoBufDeserialize.csproj",
+  "expectedPackageFiles": [
+    "/Users/mclee/.nuget/packages/google.protobuf/3.23.2/google.protobuf.3.23.2.nupkg.sha512",
+    "/Users/mclee/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/Users/mclee/.nuget/packages/packable/6.2.0/packable.6.2.0.nupkg.sha512",
+    "/Users/mclee/.nuget/packages/packable.newtonjson/2.0.0/packable.newtonjson.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
